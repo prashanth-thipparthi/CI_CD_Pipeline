@@ -1,0 +1,8 @@
+CREATE DATABASE demo;
+
+\c demo
+
+CREATE TABLE application(applicationid integer, jobid integer, applicantname varchar(255));
+
+INSERT INTO application(applicationid, jobid, applicantname) VALUES(1,1,'abc');
+INSERT INTO application(applicationid, jobid, applicantname) VALUES(2,2,'efg');
