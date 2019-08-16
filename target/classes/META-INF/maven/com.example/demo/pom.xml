@@ -67,7 +67,7 @@
 				<configuration>
 			 	 	<!-- replace `username` with your docker id-->
                      <contextDirectory>${project.basedir}</contextDirectory>
-                     <repository>{tnreddy09}/${project.artifactId}</repository>
+                     <repository>tnreddy09/${project.artifactId}</repository>
                      <useMavenSettingsForAuth>true</useMavenSettingsForAuth>
                      <tag>${project.version}</tag>
                      <buildArgs>
