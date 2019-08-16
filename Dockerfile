@@ -11,7 +11,7 @@ EXPOSE 8082
 ARG JAR_FILE=target/demo-1.0.jar
 
 #Copy the jat to the working directory
-COPY ${JAR_FILE} /usr/app
+COPY ${JAR_FILE} /usr/app/
 
 #Set the working directory
 WORKDIR /usr/app
