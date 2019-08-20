@@ -31,6 +31,7 @@
 
 ## References:
 
+https://threadminions.com/2019/03/10/dockerize-spring-boot-application-with-maven/
 https://www.youtube.com/playlist?list=PLS1QulWo1RIbY8xXPqz6ad_sNHkIP3IXI  
 https://cloud.google.com/solutions/jenkins-on-kubernetes-engine  
 https://betsol.com/2018/11/devops-using-jenkins-docker-and-kubernetes/
