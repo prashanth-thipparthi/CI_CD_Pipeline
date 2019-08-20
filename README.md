@@ -4,3 +4,7 @@
 
 ## Architecture: 
 ![](images/Architecture.PNG)
+
+## References:
+
+https://betsol.com/2018/11/devops-using-jenkins-docker-and-kubernetes/
