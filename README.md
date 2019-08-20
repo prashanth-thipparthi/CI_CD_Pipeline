@@ -1,5 +1,13 @@
 ## Goal: 
-### Create a Continuous Integration and Continuous Delivery Pipeline
+### Create a Continuous Integration and Continuous Delivery Pipeline and automate the following steps.
+
+1. Checkout code.  
+2. Compile code.  
+3. Run test cases.  
+4. Build docker image.  
+5. Push image to docker registry.  
+6. Pull new images from registry.  
+7. Deploy and manage images and containers.  
 
 ## Technologies: 
 ### Springboot framework, Spring STS 4, Maven, Jenkins, Docker, Kubernetes
