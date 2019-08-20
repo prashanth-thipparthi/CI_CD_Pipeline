@@ -3,4 +3,4 @@
 ## Technologies: Springboot framework, Maven, Jenkins, Docker, Kubernetes
 
 ## Architecture: 
-![](images/Architecture.png)
+![](images/Architecture.PNG)
