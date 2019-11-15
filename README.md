@@ -27,7 +27,7 @@
 
 
 ## Architecture: 
-![](images/Architecture.png)
+![](images/Architecture.PNG)
 
 ## References:
 
